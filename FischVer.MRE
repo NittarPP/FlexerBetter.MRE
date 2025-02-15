@@ -1,3 +1,1 @@
-local ver = Instance.new("StringValue")
-ver.Value = 2.0.0
-var.Parent = game.workspace
+2.0.0
